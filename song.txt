@@ -25,3 +25,4 @@ Cruel, cruel world, I'm moving on
 I've been living too fast
 And I've been living too wrong
 Cruel, cruel world, I'm gone
+This is a new line added in the feature branch.
